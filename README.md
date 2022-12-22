@@ -1,8 +1,8 @@
- - 👋 Hi, I’m @baldezg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+ - 👋 Hi, I’m Gabriel!
+- 👀 I’m interested in technology, music, sports and game.
+- 🌱 I’m currently learning ReactJs.
+- 💞️ I’m looking to collaborate on open source projects and get a Frontend Developer job.
+- 📫 How to reach me:
 
   <img align='center' src='https://user-images.githubusercontent.com/119074412/209194531-918e8be3-2246-4e5d-8eca-b2cfb82409c1.png' width=30, heigth=10 />
   <a align='center' href='mailto:afeporumsonho@outlook.com'>afeporumsonho@outlook.com</span>
