@@ -1,7 +1,7 @@
 - 👋 Olá,me chamo Gabriel.
 - 👀 Procuro por trabalhos como front-end júnior, trabalhos voluntários e fazer novas conexões.
--  :heart_eyes: Gosto de música, praticar esportes, cozinhar e deassuntos relacionados a tecnologia e filosofia.
-- 🌱 Estou sempre buscando aprender e atualmente estou estudando ReactJs.
+-  :heart_eyes: Gosto de música, praticar esportes, cozinhar e de assuntos relacionados a tecnologia e filosofia.
+- 🌱 Estou sempre buscando aprender e atualmente estou aprimorando minhas habilidades com React e estudando sobre web design.
 
 ## Me encontre em:
 
