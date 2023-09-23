@@ -7,6 +7,7 @@
 
 [<img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Linkedin_glyph_svg-64.png" align="center" width="30" height="30">](https://www.linkedin.com/in/gabriel-baldez-ab7140257/) LinkedIn
 [<img src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/512/hackerrank-64.png" align="center" width="30" height="30">](https://www.hackerrank.com/gabrielbaldez7) HackerRank
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" align="center" width="30" height="30">](https://www.codewars.com/users/baldezg) Codewars
 [<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png" align="center" width="30" height="30">](https://codepen.io/baldezg) CodePen
 
 ## Habilidades Técnicas
